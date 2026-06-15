@@ -3,7 +3,7 @@ Análisis de embudo de ventas y prueba A/A/B para aplicación de productos alime
 
 Una empresa emergente dedicada a la venta de productos alimenticios necesitaba comprender el comportamiento de los usuarios dentro de su aplicación móvil. El objetivo principal era identificar posibles obstáculos en el proceso de conversión y evaluar el impacto de un cambio de diseño relacionado con las fuentes tipográficas de la aplicación. Para minimizar riesgos, la empresa implementó un experimento A/A/B con dos grupos de control y un grupo de prueba.
 
-Realizar un análisis integral de los datos de comportamiento de los usuarios para:
+Realicé un análisis integral de los datos de comportamiento de los usuarios para:
 
 - Examinar el embudo de ventas y determinar el porcentaje de usuarios que avanzaban entre cada etapa del proceso de compra.
 - Identificar los puntos de abandono más significativos dentro del recorrido del usuario.
