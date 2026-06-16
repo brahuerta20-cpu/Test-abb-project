@@ -1,5 +1,4 @@
-# Prueba A/A/B.
-Análisis de embudo de ventas y prueba A/A/B para aplicación de productos alimenticios.
+# Análisis de embudo de ventas y prueba A/A/B para aplicación de productos alimenticios.
 
 Una empresa emergente dedicada a la venta de productos alimenticios necesitaba comprender el comportamiento de los usuarios dentro de su aplicación móvil. El objetivo principal era identificar posibles obstáculos en el proceso de conversión y evaluar el impacto de un cambio de diseño relacionado con las fuentes tipográficas de la aplicación. Para minimizar riesgos, la empresa implementó un experimento A/A/B con dos grupos de control y un grupo de prueba.
 
